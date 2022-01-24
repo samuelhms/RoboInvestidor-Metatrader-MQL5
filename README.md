@@ -1,5 +1,5 @@
 # RoboInvestidor-Metatrader-MQL5
-Robô escrito em MQL5 , funcional para estudo da linguagem.
+Robôs escritos em MQL5 , funcional para estudo da linguagem.
 
 Varios codigos em MQL5 para estudo de robos investidores no Metatrader 5.
 Não me responsabilizo por ganhos/perdas geradas ao se usar o codigo.
